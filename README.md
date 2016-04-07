@@ -30,6 +30,8 @@ It's necessary to list all the root objects.
 * **Develop the stop the world function**</br>
 ?</br>
 
+*By now we won't care about perfomance! </br>["Premature optimization is the root of all evil" - DonaldKnuth][12]*
+
 ## Interesting Delphi Project - PE parser </br>
 [pe-image-for-delphi][5]
 
@@ -56,3 +58,4 @@ It's necessary to list all the root objects.
 [9]:http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/
 [10]:https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
 [11]:http://www.codeproject.com/Articles/31747/Conservative-Garbage-Collector-for-C
+[12]:http://c2.com/cgi/wiki?PrematureOptimization
