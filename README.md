@@ -1,4 +1,4 @@
-# CloudGC
+# CloudGC - Version 0.0.0
 [Delphi Garbage Collector][10]
 
 By now, it's a research. I'm trying to understand Delphi's architeture to check the viability to create a GC for it.
